@@ -14,7 +14,7 @@ I'm particularly interested in:
 - Research assistant at Zhejiang University (Institute for AI)
 
 ### 📌 Projects & Publications
-- **[LLM-based Multi-Agent Clinical Decision Framework](https://github.com/yourrepo)**  
+- **[LLM-based Multi-Agent Clinical Decision Framework](https://github.com/aiformed/MAS_for_Therapy_Recom)**  
   Explores safer and conflict-aware therapy recommendation generation through agent collaboration.
 - **[Al-assisted multi-model chatbot for disease diagnosis]**  
   Responsible for fullstack development and maintenance, integrated GraphRAG to the system.
