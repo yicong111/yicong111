@@ -16,8 +16,10 @@ I'm particularly interested in:
 ### 📌 Projects & Publications
 - **[LLM-based Multi-Agent Clinical Decision Framework](https://github.com/aiformed/MAS_for_Therapy_Recom)**  
   Explores safer and conflict-aware therapy recommendation generation through agent collaboration.
-- **[Al-assisted multi-model chatbot for disease diagnosis]**  
-  Responsible for fullstack development and maintenance, integrated GraphRAG to the system.
+- **[RAG-enhanced Multi-Agent for Drug Recommendation](https://github.com/yicong111/MIMIC_drug_recom)**
+  Explores the possibility of drug recommendation task (MIMIC) through RAG-enhanced multi-agent system, with a focus on declining DDI.
+- **[Al-assisted multi-model chatbot for disease diagnosis](not open-soure)**  
+  Responsible for fullstack development and maintenance, integrated GraphRAG（llama-index used) to the system.
 
 > 📝 I’m actively writing and publishing preprints — [arXiv](Preprint: http://arxiv.org/abs/2507.10911).
 
