@@ -19,7 +19,7 @@ I'm particularly interested in:
 - **[Al-assisted multi-model chatbot for disease diagnosis]**  
   Responsible for fullstack development and maintenance, integrated GraphRAG to the system.
 
-> 📝 I’m actively writing and publishing preprints — stay tuned for updates on [arXiv](https://arxiv.org/).
+> 📝 I’m actively writing and publishing preprints — [arXiv](Preprint: http://arxiv.org/abs/2507.10911).
 
 ### 🛠️ Tech Stack
 - Python (FastAPI, PyTorch)
